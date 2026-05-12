@@ -1,8 +1,8 @@
-# ✈️ Mantenimiento Predictivo de Motores Turbofán — NASA C-MAPSS
+# Mantenimiento Predictivo de Motores Turbofán — NASA C-MAPSS
 
 Sistema de detección de fallos inminentes en motores turbofán utilizando Machine Learning sobre el dataset **NASA C-MAPSS FD001**. El proyecto compara tres algoritmos de clasificación (Decision Tree, SVM y Red Neuronal MLP) para predecir si un motor fallará en los próximos **30 ciclos de vuelo**.
 
-> 📚 Proyecto académico — Escuela de Ingenierías Industriales, Universidad de Valladolid  
+> Proyecto académico — Escuela de Ingenierías Industriales, Universidad de Valladolid  
 > **Autores:** Gonzalo Alonso Andrés · David Domingo Hermoso
 
 ---
