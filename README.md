@@ -1,6 +1,6 @@
 # Mantenimiento Predictivo de Motores Turbofán — NASA C-MAPSS
 
-Sistema de detección de fallos inminentes en motores turbofán utilizando Machine Learning sobre el dataset **NASA C-MAPSS FD001**. El proyecto compara tres algoritmos de clasificación (Decision Tree, SVM y Red Neuronal MLP) para predecir si un motor fallará en los próximos **30 ciclos de vuelo**.
+Sistema de detección de fallos inminentes en motores turbofán utilizando Machine Learning sobre el dataset **NASA C-MAPSS FD001**. El proyecto compara tres algoritmos de clasificación (Decision Tree, SVM y Red Neuronal MLP) para predecir si un motor fallará en los próximos 30 ciclos de vuelo.
 
 > Proyecto académico — Escuela de Ingenierías Industriales, Universidad de Valladolid  
 > **Autores:** Gonzalo Alonso Andrés · David Domingo Hermoso
@@ -16,7 +16,7 @@ Los motores turbofán comerciales generan grandes volúmenes de datos a través 
 | **0** | Funcionamiento normal | RUL > 30 ciclos |
 | **1** | Fallo inminente | RUL ≤ 30 ciclos |
 
-El dataset FD001 simula un único modo de fallo (degradación del compresor de alta presión) bajo una condición operativa, con **100 motores** y **21 sensores** por ciclo.
+El dataset FD001 simula un único modo de fallo (degradación del compresor de alta presión) bajo una condición operativa, con 100 motores y 21 sensores por ciclo.
 
 ---
 
